@@ -1,2 +1,2 @@
 # RK
-first project for learn Github
+first project for learn Github.
